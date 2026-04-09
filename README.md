@@ -1,3 +1,11 @@
+BSCS 1B
+
+ARINO, LEEXIALYN
+ASPE, ALIYAH
+CORTES, ALEXA
+INGENTE, PRECIOUS
+
+
 # Module 1:
 This code is for managing a list of suppliers.
 
